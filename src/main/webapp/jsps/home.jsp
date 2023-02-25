@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>RayCoySolutions.com- Home Page</title>
-<link href="images/log4.png" rel="icon">
+<link href="images/log.png" rel="icon">
 </head>
 </head>
 <body>
@@ -17,7 +17,7 @@
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/log4.png" alt="" width="100">
+		<img src="images/log.png" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
 		RayCoy Solutions, 
