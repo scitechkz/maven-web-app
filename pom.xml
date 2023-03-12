@@ -94,20 +94,20 @@
 		
 	</dependencies>
 	
-	<distributionManagement>
-	    <repository>
-	      <id>nexus</id>
-	      <name>RayCoy Solutions Releases Nexus Repository</name>
-	      <url>http://44.192.81.238:8888/raycoysolutions/repository/boa-release/</url>
-	    </repository>
-	    
-	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>RayCoy Solutions Snapshot Nexus Repository </name>
-	      <url>http://44.192.81.238:8888/raycoysolutions/repository/boa-snapshot/</url>
-	    </snapshotRepository>
-	    
-	</distributionManagement>
+	 <distributionManagement>
+            <repository>
+              <id>nexus</id>
+              <name>RayCoy Solutions Releases Nexus Repository</name>
+              <url>http://172.31.36.233:8081/repository/raycoy-releases/</url>
+            </repository>
+
+            <snapshotRepository>
+              <id>nexus</id>
+              <name>RayCoy Solutions Snapshot Nexus Repository </name>
+              <url>http://172.31.36.233:8081/repository/raycoy-snapshot/</url>
+            </snapshotRepository>
+
+        </distributionManagement>
 	
 	<build>
 		<finalName>maven-web-app</finalName>
