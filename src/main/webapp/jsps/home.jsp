@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">RayCoy Solutions Limited</h1>
+<h1 align="center">RayCoy Solutions</h1>
 <h2 align="center"> Welcome to RayCoy Solutions. 
 	RayCoy Solutions is a an ideal online training  platform for DevOps and Cloud Engineers. 
 	We offer interview preparations and job assitance.
