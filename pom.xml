@@ -126,7 +126,6 @@
 
         </dependencies>
 
-<!--
         <distributionManagement>
             <repository>
               <id>nexus</id>
@@ -142,7 +141,7 @@
 
         </distributionManagement>
 
--->
+
         <build>
                 <finalName>maven-web-app</finalName>
 
